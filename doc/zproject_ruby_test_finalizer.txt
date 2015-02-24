@@ -1,0 +1,25 @@
+Name(7)
+=======
+
+
+NAME
+----
+zproject_ruby_test_finalizer - A test for Finalizers in generated Ruby bindings.
+
+
+SYNOPSIS
+--------
+----
+#include <zproject_ruby_test_finalizer.h>
+
+cc ['flags'] 'files' -lzrtf ['libraries']
+----
+
+
+DESCRIPTION
+-----------
+
+Classes
+~~~~~~~
+
+Something.

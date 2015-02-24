@@ -1,0 +1,25 @@
+Name(7)
+=======
+
+
+NAME
+----
+zrtf - A test for finalizers in generated Ruby bindings.
+
+
+SYNOPSIS
+--------
+----
+#include <zrtf.h>
+
+cc ['flags'] 'files' -lzrtf ['libraries']
+----
+
+
+DESCRIPTION
+-----------
+
+Classes
+~~~~~~~
+
+Something.

@@ -1,0 +1,2 @@
+module QmlZprojectRubyTestFinalizer
+plugin qml_zproject_ruby_test_finalizer
